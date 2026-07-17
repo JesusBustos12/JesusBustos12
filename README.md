@@ -1,8 +1,7 @@
 <!-- Puedes copiar y pegar este contenido para reemplazar el README.md actual de tu proyecto de portafolio -->
 
 <div align="center">
-  <!-- NOTA: Cuando lo pegues en GitHub, cambia la ruta de la imagen a src="public/favicon.svg" -->
-  <img src="C:/IDEs - Lenguajes de Programacion/IDEs/(Portafolio)/(Curso de Vide Coding)/Portafolio/public/favicon.svg" alt="Digital Auter Logo" width="100"/>
+  <img src="public/favicon.svg" alt="Digital Auter Logo" width="100"/>
   <h1>Portafolio Profesional | Digital Auter</h1>
   <p><strong>Desarrollado por Jesús Bustos Arizmendi (@JesusBustos12)</strong></p>
   <p><em>Desarrollador Web Full Stack & Ecosistemas con I.A.</em></p>
