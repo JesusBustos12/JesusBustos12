@@ -1,7 +1,7 @@
 <!-- Puedes copiar y pegar este contenido para reemplazar el README.md actual de tu proyecto de portafolio -->
 
 <div align="center">
-  <img src="public/favicon.svg" alt="Digital Auter Logo" width="100"/>
+  <img src="https://digitalauteur.com/favicon.svg" alt="Digital Auter Logo" width="100"/>
   <h1>Portafolio Profesional | Digital Auter</h1>
   <p><strong>Desarrollado por Jesús Bustos Arizmendi (@JesusBustos12)</strong></p>
   <p><em>Desarrollador Web Full Stack & Ecosistemas con I.A.</em></p>
