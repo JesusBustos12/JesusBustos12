@@ -12,7 +12,7 @@
 
 > 🔒 **Repositorio Privado:** El código fuente de este proyecto se mantiene de forma privada por motivos de seguridad y arquitectura de infraestructura.
 
-Este repositorio contiene la infraestructura técnica detrás de **[digitalauteur.com](https://digitalauteur.com/)**. Más que una simple página de presentación, este proyecto es una demostración en vivo de mi capacidad para construir arquitecturas sólidas, interfaces modernas de alto rendimiento y mi enfoque diferencial: **el desarrollo impulsado por Inteligencia Artificial**.
+Este es el dominio de mi portafolio **[digitalauteur.com](https://digitalauteur.com/)**. Más que una simple página de presentación, este proyecto es una demostración en vivo de mi capacidad para construir arquitecturas sólidas, interfaces modernas de alto rendimiento y mi enfoque diferencial: **el desarrollo impulsado por Inteligencia Artificial**.
 
 ---
 
