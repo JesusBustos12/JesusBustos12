@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Portafolio Profesional | Digital Auter</h1>
   <p><strong>Desarrollado por Jesús Bustos Arizmendi (@JesusBustos12)</strong></p>
-  <p><em>Desarrollador Web Full Stack & Ecosistemas con I.A.</em></p>
+  <p><em>Full Stack Engineer — AI Augmented</em></p>
 </div>
 
 ---
@@ -18,7 +18,7 @@ Este es el dominio de mi portafolio **[digitalauteur.com](https://www.digitalaut
 
 ## 💼 Valor Añadido para Empresas y Clientes
 
-Como Desarrollador Full-Stack, entiendo que el código es un medio para resolver problemas de negocio. Al sumarme a tu equipo o colaborar en un proyecto independiente, mi objetivo es aportar valor real desde el primer día:
+Como Desarrollador Full Stack Engineer — AI Augmented, entiendo que el código es un medio para resolver problemas de negocio. Al sumarme a tu equipo o colaborar en un proyecto independiente, mi objetivo es aportar valor real desde el primer día:
 
 1. ⚡ **Desarrollo Ágil y Eficiente (Sinergia con IA):** No veo a la IA como una simple herramienta, sino como un colaborador estratégico. La utilizo para estructurar código ágilmente, optimizar consultas complejas y auditar la lógica. Esto me permite **multiplicar la eficiencia** y entregar plataformas robustas en una fracción del tiempo tradicional.
 2. 🛡️ **Seguridad y Calidad Nivel Producción:** Construyo aplicaciones pensando en el mundo real. Este proyecto implementa autenticación segura (JWT en cookies httpOnly), mitigación de vulnerabilidades (CSRF) y observabilidad profunda con logs rotativos estructurados.
