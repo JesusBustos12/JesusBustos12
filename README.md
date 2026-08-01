@@ -1,46 +1,66 @@
-<!-- Puedes copiar y pegar este contenido para reemplazar el README.md actual de tu proyecto de portafolio -->
-
 <div align="center">
   <h1>Portafolio Profesional | Digital Auter</h1>
   <p><strong>Desarrollado por Jesús Bustos Arizmendi (@JesusBustos12)</strong></p>
-  <p><em>Full Stack Engineer — AI Augmented</em></p>
+  <p><em>Full Stack Engineer — AI-Augmented SDLC</em></p>
 </div>
 
 ---
 
 ## 🚀 Sobre este Proyecto
 
-> 🔒 **Repositorio Privado:** El código fuente de este proyecto se mantiene de forma privada por motivos de seguridad y arquitectura de infraestructura.
+> 🔒 **Repositorio Privado:** El código fuente se mantiene privado por motivos
+> de seguridad e infraestructura.
 
-Este es el dominio de mi portafolio **[digitalauteur.com](https://www.digitalauter.com/)**. Más que una simple página de presentación, este proyecto es una demostración en vivo de mi capacidad para construir arquitecturas sólidas, interfaces modernas de alto rendimiento y mi enfoque diferencial: **el desarrollo impulsado por Inteligencia Artificial**.
+Este es el ecosistema detrás de mi portafolio
+**[digitalauter.com](https://www.digitalauter.com/)**. Más que una página de
+presentación, es una demostración en vivo de mi capacidad para construir
+arquitecturas seguras por diseño, interfaces de alto rendimiento y un ciclo
+de desarrollo aumentado por Inteligencia Artificial.
 
 ---
 
 ## 💼 Valor Añadido para Empresas y Clientes
 
-Como Desarrollador Full Stack Engineer — AI Augmented, entiendo que el código es un medio para resolver problemas de negocio. Al sumarme a tu equipo o colaborar en un proyecto independiente, mi objetivo es aportar valor real desde el primer día:
+1. ⚡ **Desarrollo Aumentado por IA:** Integro agentes de IA en cada fase del
+   ciclo de vida del software: diseño de arquitectura, endurecimiento de
+   seguridad, revisión de código y documentación técnica. Esto acelera ciclos
+   de iteración sin sacrificar calidad.
 
-1. ⚡ **Desarrollo Ágil y Eficiente (Sinergia con IA):** No veo a la IA como una simple herramienta, sino como un colaborador estratégico. La utilizo para estructurar código ágilmente, optimizar consultas complejas y auditar la lógica. Esto me permite **multiplicar la eficiencia** y entregar plataformas robustas en una fracción del tiempo tradicional.
-2. 🛡️ **Seguridad y Calidad Nivel Producción:** Construyo aplicaciones pensando en el mundo real. Este proyecto implementa autenticación segura (JWT en cookies httpOnly), mitigación de vulnerabilidades (CSRF) y observabilidad profunda con logs rotativos estructurados.
-3. 🎨 **Diseño y Experiencia de Usuario (UX/UI):** No sacrifico la estética por la funcionalidad. Combino CSS avanzado y React para crear interfaces cinemáticas, totalmente responsivas, accesibles y optimizadas para SEO (Open Graph, JSON-LD).
-4. 📈 **Arquitectura Escalable y Dirección Técnica:** Actúo con mentalidad de arquitecto, diseñando bases de datos relacionales eficientes (MySQL) y APIs (Node.js/Express) preparadas para crecer con las necesidades del proyecto.
+2. 🛡️ **Seguridad en Profundidad (Defense in Depth):** Construyo aplicaciones
+   blindadas con protección multicapa: autenticación JWT en cookies httpOnly
+   con refresh token rotation, prevención de CSRF (Double-Submit), Rate
+   Limiting por endpoint, Content Security Policy personalizado con Helmet,
+   HSTS con preload, comparaciones timing-safe y logging de auditoría con
+   tracking de IP.
+
+3. 🎨 **Diseño y Experiencia de Usuario:** Combino CSS avanzado y React 19
+   para crear interfaces responsivas, accesibles y optimizadas para SEO
+   (Open Graph, metadatos estructurados).
+
+4. 📈 **Arquitectura Escalable:** Diseño con mentalidad de arquitecto: bases
+   de datos relacionales con índices optimizados, APIs RESTful modulares
+   preparadas para crecer, y panel de administración completo con
+   estadísticas, respaldos y gestión de contenido.
 
 ---
 
 ## 🛠️ Stack Tecnológico Demostrado
 
-Este proyecto fue construido utilizando herramientas modernas para garantizar velocidad, seguridad y un mantenimiento sencillo:
-
-- **Frontend:** React 19 + Vite, CSS3 Puro (Grid/Flexbox nativo).
-- **Backend:** Node.js, Express.
-- **Servicios Cloud & Datos:** 
-  - **TiDB Cloud:** Base de datos distribuida en la nube para el almacenamiento seguro y escalable de datos estructurados.
-  - **Cloudinary:** Infraestructura en la nube para la gestión optimizada y entrega rápida de datos binarios (imágenes y multimedia).
-- **Infraestructura:** Docker (Contenedorización para despliegues confiables).
+- **Frontend:** React 19, Next.js 15 con Turbopack, CSS3 puro
+  (Grid/Flexbox).
+- **Backend:** Node.js, Express.js, APIs RESTful con validación robusta.
+- **Base de Datos:** MySQL (TiDB Cloud) con connection pooling e índices
+  optimizados.
+- **Seguridad:** JWT httpOnly, CSRF, Rate Limiting, Helmet (CSP/HSTS),
+  Winston logging.
+- **Cloud:** Cloudinary (subida con firma server-side), Supabase.
+- **DevOps:** Docker (multi-stage, usuario no-root), GitHub Actions CI/CD,
+  Vercel.
 
 ---
 
 ## 🤝 Conversemos
+
 
 Si buscas a un desarrollador que no solo escriba código, sino que asuma la dirección técnica y utilice tecnología de vanguardia para llevar tu producto al siguiente nivel, me encantaría conectar.
 
